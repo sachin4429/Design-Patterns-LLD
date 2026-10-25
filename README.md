@@ -14,8 +14,15 @@ This repository contains clean, modular, and interview-ready implementations of 
   - **Bill Pugh (Initialization-on-demand Holder):** [BillPughSingleton](./SingletonDesignPattern/BillPughSingleton/)
   - **Enum Singleton:** [EnumSingleton](./SingletonDesignPattern/EnumSingleton/)
 
+- **[Factory Method Design Pattern](./FactoryDesignPattern/)**
+  - Notification System: [NotificationSystem](./FactoryDesignPattern/NotificationSystem/)
+  - Subscription System: [Subscription](./FactoryDesignPattern/Subscription/)
+- **[Abstract Factory Design Pattern](./AbstractFactoryDesignPattern/)**
+  - Shoe Factory Family (Sole + ShoeLace): [AbstractFactoryDesignPattern](./AbstractFactoryDesignPattern/)
+  - 👉 **[ABSTRACT_FACTORY_REVISION_GUIDE.md](./AbstractFactoryDesignPattern/ABSTRACT_FACTORY_REVISION_GUIDE.md)**
+
 ---
 
-## 📖 Quick Revision Guide
-For quick interview revision, see the complete tabular guide:
-👉 **[SINGLETON_REVISION_GUIDE.md](./SingletonDesignPattern/SINGLETON_REVISION_GUIDE.md)**
+## 📖 Quick Revision Guides
+- 👉 **[SINGLETON_REVISION_GUIDE.md](./SingletonDesignPattern/SINGLETON_REVISION_GUIDE.md)**
+- 👉 **[ABSTRACT_FACTORY_REVISION_GUIDE.md](./AbstractFactoryDesignPattern/ABSTRACT_FACTORY_REVISION_GUIDE.md)**
